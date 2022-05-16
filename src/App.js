@@ -6,6 +6,7 @@ import about from "./about.jpg";
 import "./App.css";
 
 function App() {
+  askldkasdj;
   return (
     <>
       <div className="stiky">
